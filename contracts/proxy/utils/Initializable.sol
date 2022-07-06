@@ -27,7 +27,6 @@ import "../../utils/AddressUpgradeable.sol";
  *
  * [.hljs-theme-light.nopadding]
  * ```
- * /// @custom:oz-upgrades-unsafe-allow constructor
  * constructor() initializer {}
  * ```
  * ====
